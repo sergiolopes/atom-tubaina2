@@ -1,0 +1,15 @@
+'name': 'Tubaina2'
+'scopeName': 'text.tubaina'
+'fileTypes': ['md']
+'injectionSelector': 'comment'
+'patterns': [
+  {
+    'match': '@todo'
+    'name': 'tubaina2.todo'
+  }
+  {
+    'match': '@note'
+    'name': 'tubaina2.note'
+  }
+
+]

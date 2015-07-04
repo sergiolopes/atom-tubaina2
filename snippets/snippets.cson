@@ -1,0 +1,17 @@
+'.source.gfm':
+
+  'Tubaina TODO':
+    'prefix': 'todo'
+    'body': '<!-- @todo $1 -->'
+
+  'Tubaina NOTE':
+    'prefix': 'note'
+    'body': '<!-- @note $1 -->'
+
+  'Tubaina BOX':
+    'prefix': 'box'
+    'body': """
+    > **$1**
+    >
+    > $2
+    """

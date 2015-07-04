@@ -1,0 +1,10 @@
+{
+  "name": "atom-tubaina2",
+  "version": "0.0.1",
+  "description": "Tubaina2 goodies for Atom",
+  "repository": "https://github.com/sergiolopes/atom-tubaina2",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
