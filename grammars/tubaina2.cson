@@ -1,6 +1,6 @@
 'name': 'Tubaina2'
 'scopeName': 'text.tubaina'
-'fileTypes': ['md']
+'fileTypes': []
 'injectionSelector': 'comment'
 'patterns': [
   {
